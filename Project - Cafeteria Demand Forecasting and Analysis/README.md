@@ -19,7 +19,8 @@ This project analyzes daily meal distribution data from Bilkent University’s m
 ---
 
 ## Full Report  
-For more detailed information, analysis, and results, please refer to the [full project report](./Project%20-%20Cafeteria%20Demand%20Forecasting%20and%20Analysis/Cafeteria%20Project%20Report.pdf).
+For more detailed information, analysis, and results, please refer to the [full project report](./Project%20-%20Cafeteria%20Demand%20Forecasting%20and%20Analysis/Cafeteria%20Project%20Report.pdf)
+
 
 ---
 
