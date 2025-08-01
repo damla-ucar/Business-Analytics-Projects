@@ -5,7 +5,7 @@ Projects demonstrating applications of business analytics techniques to real-wor
 
 This repository contains several business analytics projects applying various data-driven techniques to real-world problems. Below is a brief summary of each project included:
 
-### 1. Crypto-Arbitrage Cointegration  
+### 1. [Crypto Portfolio](./Cryptocurrency%20Portfolio%20Construction%20Project%20with%20Article%20Approach)
 Market-neutral cryptocurrency portfolio and trading strategy using cointegration and dynamic mean-reversion. This project applies statistical arbitrage techniques on hourly cryptocurrency price data to construct and backtest a market-neutral trading strategy leveraging the Engle–Granger two-step method.
 
 ### 2. Cafeteria Demand Forecasting  
