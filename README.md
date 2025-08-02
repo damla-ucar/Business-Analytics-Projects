@@ -1,5 +1,5 @@
-# Business-Analytics-Projects
-Projects demonstrating applications of business analytics techniques to real-world datasets and decision problems.
+# 📊 Data and Business Analytics
+Projects applying data analytics and machine learning to real-world business problems.
 
 ## 📂 Projects Overview
 
