@@ -8,7 +8,7 @@ Market-neutral cryptocurrency portfolio &amp; trading strategy using cointegrati
 
 ---
 
-## 🧰 Technologies & Methods
+## Technologies & Methods
 - Python (Pandas, statsmodels, scikit-learn)
 - Time series analysis & cointegration
 - Engle–Granger two-step method
@@ -17,7 +17,7 @@ Market-neutral cryptocurrency portfolio &amp; trading strategy using cointegrati
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project constructs a **cointegrated, market-neutral cryptocurrency portfolio** using the Engle–Granger two-step method, following:
 
@@ -30,7 +30,7 @@ Then:
 
 ---
 
-## 📂 Data
+## Data
 
 - Hourly historical prices from Binance API.
 - Period: **Jan 1, 2023 – Jan 1, 2025**
@@ -90,7 +90,7 @@ To adapt to shocks:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 - Successfully built a cointegrated, market-neutral crypto portfolio.
 - Designed & backtested a mean-reversion strategy.
