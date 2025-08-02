@@ -1,7 +1,7 @@
 # 📊 Data and Business Analytics
 Projects applying data analytics and machine learning to real-world business problems.
 
-## 📂 Projects Overview
+## Projects Overview
 
 This repository contains several business analytics projects applying various data-driven techniques to real-world problems. Below is a brief summary of each project included:
 
